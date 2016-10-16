@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f351a0d0efc968949b7a6709a0b15978
+timeCreated: 1461838326
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - bullet: {fileID: 113366, guid: f39ab6a403cd57d4baedbe2e0de8c32b, type: 2}
+  - warp: {instanceID: 0}
+  - firePos: {instanceID: 0}
+  - fireSfx: {fileID: 8300000, guid: 29dcd7ff4b8b21840829c981925d1fd7, type: 3}
+  - muzzleFlash: {fileID: 2361078, guid: aae8b717547c25b46a052e7e59413169, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4132 @@
+Initialize engine version: 5.3.3f1 (910d71450a97)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 750 Ti (ID=0x1380)
+    Vendor:   NVIDIA
+    VRAM:     1974 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\유니티\AO\AlliusOcculus_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\유니티\AO\AlliusOcculus_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\유니티\AO\AlliusOcculus_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\유니티\AO\AlliusOcculus_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\유니티\AO\AlliusOcculus_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\유니티\AO\AlliusOcculus_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\유니티\AO\AlliusOcculus_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading D:\유니티\AO\AlliusOcculus_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: D:\유니티\AO\AlliusOcculus_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\유니티\AO\AlliusOcculus_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\유니티\AO\AlliusOcculus_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\유니티\AO\AlliusOcculus_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\유니티\AO\AlliusOcculus_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\유니티\AO\AlliusOcculus_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\유니티\AO\AlliusOcculus_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\유니티\AO\AlliusOcculus_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\유니티\AO\AlliusOcculus_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading D:\유니티\AO\AlliusOcculus_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+- Completed reload, in  0.043 seconds
+Platform assembly: D:\유니티\AO\AlliusOcculus_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\유니티\AO\AlliusOcculus_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The file 'D:/유니티/AO/AlliusOcculus_Data/sharedassets0.assets' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 223)
+
+The file 'D:/유니티/AO/AlliusOcculus_Data/level0' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 223)
+
+The file 'D:/유니티/AO/AlliusOcculus_Data/level0' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 223)
+
+The file 'D:/유니티/AO/AlliusOcculus_Data/level0' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 223)
+
+The file 'D:/유니티/AO/AlliusOcculus_Data/level0' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 223)
+
+The referenced script on this Behaviour (Game Object 'Canvas') is missing!
+ 
+(Filename:  Line: 1655)
+
+The file 'D:/유니티/AO/AlliusOcculus_Data/level0' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 223)
+
+The file 'D:/유니티/AO/AlliusOcculus_Data/level0' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 223)
+
+The file 'D:/유니티/AO/AlliusOcculus_Data/level0' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 223)
+
+The file 'D:/유니티/AO/AlliusOcculus_Data/level0' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 223)
+
+The file 'D:/유니티/AO/AlliusOcculus_Data/level0' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 223)
+
+The file 'D:/유니티/AO/AlliusOcculus_Data/level0' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 217)
+
+The file 'D:/유니티/AO/AlliusOcculus_Data/level0' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 223)
+
+UnloadTime: 0.478578 ms
+The file 'D:/유니티/AO/AlliusOcculus_Data/resources.assets' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 223)
+
+You did not select a Hosting Type in your PhotonServerSettings. Please set it up or don't use ConnectUsingSettings().
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PhotonInit.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Unsupported device.
+  at BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at Cardboard.InitDevice () [0x00000] in <filename unknown>:0 
+  at Cardboard.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.OnLevelWasLoaded (Int32 level) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.OnApplicationPause (Boolean pause) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.OnApplicationFocus (Boolean focus) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.Projection (Eye eye, Distortion distortion) [0x00000] in <filename unknown>:0 
+  at CardboardEye.UpdateStereoValues () [0x00000] in <filename unknown>:0 
+  at CardboardEye.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.Projection (Eye eye, Distortion distortion) [0x00000] in <filename unknown>:0 
+  at CardboardEye.UpdateStereoValues () [0x00000] in <filename unknown>:0 
+  at CardboardEye.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at raycast_ctrl.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at raycast_ctrl.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at raycast_ctrl.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at raycast_ctrl.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at raycast_ctrl.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at raycast_ctrl.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at raycast_ctrl.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at raycast_ctrl.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at raycast_ctrl.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at raycast_ctrl.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at raycast_ctrl.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at raycast_ctrl.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at raycast_ctrl.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at raycast_ctrl.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at raycast_ctrl.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at raycast_ctrl.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at raycast_ctrl.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at raycast_ctrl.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at raycast_ctrl.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at raycast_ctrl.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at raycast_ctrl.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at raycast_ctrl.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at raycast_ctrl.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at raycast_ctrl.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at raycast_ctrl.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at raycast_ctrl.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at raycast_ctrl.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at raycast_ctrl.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at raycast_ctrl.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at raycast_ctrl.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at raycast_ctrl.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at raycast_ctrl.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at raycast_ctrl.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at raycast_ctrl.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at raycast_ctrl.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at raycast_ctrl.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at raycast_ctrl.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at raycast_ctrl.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at raycast_ctrl.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at raycast_ctrl.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at raycast_ctrl.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at raycast_ctrl.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at raycast_ctrl.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at raycast_ctrl.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at raycast_ctrl.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at raycast_ctrl.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at raycast_ctrl.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at raycast_ctrl.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at raycast_ctrl.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at raycast_ctrl.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at raycast_ctrl.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at raycast_ctrl.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at raycast_ctrl.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at raycast_ctrl.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at raycast_ctrl.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at raycast_ctrl.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at raycast_ctrl.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at raycast_ctrl.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at raycast_ctrl.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at raycast_ctrl.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at raycast_ctrl.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at raycast_ctrl.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at head.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.UpdateState () [0x00000] in <filename unknown>:0 
+  at CardboardHead.UpdateHead () [0x00000] in <filename unknown>:0 
+  at CardboardHead.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Cardboard.OnApplicationQuit () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1060 -> priority: 1 
